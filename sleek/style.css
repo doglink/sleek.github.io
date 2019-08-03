@@ -1,0 +1,77 @@
+@font-face {
+    src: url(font/FiveYearsLaterRegular.otf);
+    font-family: 'sleek';
+    font-weight: bold;
+}
+
+@font-face {
+    src: url(font/Fugue.otf);
+    font-family: 'beauty room';
+    font-weight: bold;
+}
+
+body {
+    background-color: #F0FFF0;
+    font-family: 'beauty room';
+}
+
+.contacts a {
+    color: #FF6347;
+    text-decoration: none;
+}
+
+.team a {
+    color: #FF6347;
+    text-decoration: none;
+}
+
+.instagram a {
+    color: #FF6347;
+    text-decoration: none;
+}
+
+.price a {
+    color: #FF6347;
+    text-decoration: none;
+}
+
+.contacts {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow: hidden;
+    padding-top: 2%;
+    padding-left: 10%;
+    left: 0;
+}
+
+.instagram {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow: hidden;
+    padding-top: 2%;
+    padding-right: 10%;
+    right: 0;
+}
+
+.price {
+    position: fixed;
+    z-index: 1;
+    bottom: 0;
+    overflow: hidden;
+    padding-bottom: 2%;
+    padding-right: 10%;
+    right: 0;
+}
+
+.team {
+    position: fixed;
+    z-index: 1;
+    bottom: 0;
+    overflow: hidden;
+    padding-bottom: 2%;
+    padding-left: 10%;
+    left: 0;
+}
+
