@@ -1,11 +1,11 @@
 @font-face {
-    src: url(font/FiveYearsLaterRegular.otf);
+    src: url(FiveYearsLaterRegular.otf);
     font-family: 'sleek';
     font-weight: bold;
 }
 
 @font-face {
-    src: url(font/Fugue.otf);
+    src: url(Fugue.otf);
     font-family: 'beauty room';
     font-weight: bold;
 }
