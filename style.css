@@ -12,6 +12,9 @@
 
 body {
     background-color: #F0FFF0;
+    background-image: url(bg.jpg);
+    background-size: 300%;
+    width: 100%;
     font-family: 'beauty room';
 }
 
