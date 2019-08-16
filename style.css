@@ -17,6 +17,10 @@ body {
     font-family: 'beauty room';
 }
 
+.background {
+    z-index: 0;
+}
+
 .background span {
   width: 30vmin;
   height: 30vmin;
